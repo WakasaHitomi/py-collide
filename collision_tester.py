@@ -38,7 +38,7 @@ rectangle = [350, 275, 100, 50]
 3 = circle-circle
 4 = rectangle-rectangle
 '''
-case = 1
+case = 2
 
 # Game loop
 done = False
